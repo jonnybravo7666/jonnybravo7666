@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Sail</h1>
 <h3 align="center">I'm passionate about cyber security and have a strong background in computer science, programming, and networking.</h3>
-<img align="right" alt=Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt=Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonnybravo7666&label=Profile%20views&color=0e75b6&style=flat" alt="jonnybravo7666" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
