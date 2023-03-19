@@ -1,3 +1,5 @@
+<img src="https://www.jvrconsultancy.com/wp-content/uploads/2020/09/AdobeStock_209448540-1536x471.jpeg" width="100%" height="50%">
+
 <h1 align="center">Hi 👋, I'm Rohan Sail</h1>
 <h3 align="center">I'm passionate about cyber security and have a strong background in computer science, programming, and networking.</h3>
 <img align="right" alt=Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
